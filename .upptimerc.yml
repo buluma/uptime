@@ -9,6 +9,7 @@ sites:
     url: https://buluma.co.ke
   - name: Website2
     url: https://buluma.me.ke
+    __dangerous__insecure: true
   - name: Voda-DRC
     url: $SECRET_SITE1
   - name: Voda-SA
