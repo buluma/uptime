@@ -1,21 +1,28 @@
 # Change these first
 owner: buluma # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+assignees: # Users to assign downtime issues (optional)
+  - AnandChowdhar
 
 sites:
   - name: Website
     url: $MAIN_SITE
+    icon: https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png
   - name: Website2
     url: $MAIN_SITE2
+    icon: https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png
     __dangerous__insecure: true
   - name: Backup Server
     url: $BACKUP_SITE
   - name: VODA-DRC
     url: $SECRET_SITE1
+    icon: https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico
   - name: VODA-SA
     url: $SECRET_SITE2
+    icon: https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico
   - name: SEACOM
     url: $SECRET_SITE3
+    icon: https://streamline.dev.seacom.nasctech.com/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
