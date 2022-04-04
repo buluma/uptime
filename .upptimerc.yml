@@ -5,6 +5,8 @@ assignees: # Users to assign downtime issues (optional)
   - AnandChowdhar
 
 sites:
+  - name: Google
+    url: $GOOGLE
   - name: Website
     url: $MAIN_SITE
     icon: https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png
