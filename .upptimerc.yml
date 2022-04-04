@@ -31,7 +31,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**ShadowNet** Uptime."
   introMessage: This status page uses **real-time** data.
   theme: dark
   navbar:
