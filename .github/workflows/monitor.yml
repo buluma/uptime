@@ -9,6 +9,9 @@
 
 name: Monitor CI
 on:
+  push:
+    paths:
+      - "../github/workflows/monitor.yml"
   schedule:
     - cron: "0 1 * * *"
   repository_dispatch:
