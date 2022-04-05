@@ -41,18 +41,18 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website2",
     "status": "up",
-    "uptime": "64.14%",
-    "uptimeDay": "64.14%",
-    "uptimeWeek": "64.14%",
-    "uptimeMonth": "64.14%",
-    "uptimeYear": "64.14%",
+    "uptime": "70.96%",
+    "uptimeDay": "70.96%",
+    "uptimeWeek": "70.96%",
+    "uptimeMonth": "70.96%",
+    "uptimeYear": "70.96%",
     "time": 9797,
     "timeDay": 9797,
     "timeWeek": 9797,
     "timeMonth": 9797,
     "timeYear": 9797,
     "dailyMinutesDown": {
-      "2022-04-04": 158
+      "2022-04-04": 146
     }
   },
   {
@@ -78,19 +78,20 @@
     "url": "$SECRET_SITE1",
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1575,
-    "timeDay": 1575,
-    "timeWeek": 1575,
-    "timeMonth": 1575,
-    "timeYear": 1575,
+    "status": "up",
+    "uptime": "87.53%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "87.53%",
+    "uptimeMonth": "87.53%",
+    "uptimeYear": "87.53%",
+    "time": 1587,
+    "timeDay": 1587,
+    "timeWeek": 1587,
+    "timeMonth": 1587,
+    "timeYear": 1587,
     "dailyMinutesDown": {
-      "2022-04-04": 1
+      "2022-04-05": 55,
+      "2022-04-04": 7
     }
   },
   {
@@ -98,19 +99,20 @@
     "url": "$SECRET_SITE2",
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1684,
-    "timeDay": 1684,
-    "timeWeek": 1684,
-    "timeMonth": 1684,
-    "timeYear": 1684,
+    "status": "up",
+    "uptime": "87.52%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "87.52%",
+    "uptimeMonth": "87.52%",
+    "uptimeYear": "87.52%",
+    "time": 1704,
+    "timeDay": 1704,
+    "timeWeek": 1704,
+    "timeMonth": 1704,
+    "timeYear": 1704,
     "dailyMinutesDown": {
-      "2022-04-04": 1
+      "2022-04-05": 56,
+      "2022-04-04": 7
     }
   },
   {
@@ -119,18 +121,16 @@
     "icon": "https://streamline.dev.seacom.nasctech.com/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "seacom",
     "status": "up",
-    "uptime": "97.10%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "97.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4668,
     "timeDay": 4668,
     "timeWeek": 4668,
     "timeMonth": 4668,
     "timeYear": 4668,
-    "dailyMinutesDown": {
-      "2022-04-04": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
