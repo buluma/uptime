@@ -10,10 +10,6 @@ sites:
   - name: Website
     url: $MAIN_SITE
     icon: https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png
-  - name: Website2
-    url: $MAIN_SITE2
-    icon: https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png
-    __dangerous__insecure: true
   - name: Backup Server
     url: $BACKUP_SITE
   - name: VODA-DRC
