@@ -22,19 +22,19 @@
     "url": "$MAIN_SITE",
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 11178,
-    "timeDay": 11123,
-    "timeWeek": 11178,
-    "timeMonth": 11178,
-    "timeYear": 11178,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 11231,
+    "timeDay": 11550,
+    "timeWeek": 11231,
+    "timeMonth": 11231,
+    "timeYear": 11231,
     "dailyMinutesDown": {
-      "2022-04-11": 1
+      "2022-04-11": 10
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$BACKUP_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backup-server",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 572,
-    "timeDay": 556,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 572,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 618,
+    "timeDay": 884,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2022-04-11": 16
+      "2022-04-11": 26
     }
   },
   {
