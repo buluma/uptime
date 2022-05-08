@@ -13,7 +13,7 @@
     "time": 345,
     "timeDay": 706,
     "timeWeek": 413,
-    "timeMonth": 359,
+    "timeMonth": 356,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-04-13": 23
@@ -33,7 +33,7 @@
     "time": 11988,
     "timeDay": 12532,
     "timeWeek": 11959,
-    "timeMonth": 12317,
+    "timeMonth": 12371,
     "timeYear": 11988,
     "dailyMinutesDown": {
       "2022-05-06": 203
@@ -53,7 +53,7 @@
     "time": 606,
     "timeDay": 626,
     "timeWeek": 594,
-    "timeMonth": 615,
+    "timeMonth": 627,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2022-04-11": 26
@@ -73,7 +73,7 @@
     "time": 1699,
     "timeDay": 1950,
     "timeWeek": 1641,
-    "timeMonth": 1698,
+    "timeMonth": 1700,
     "timeYear": 1699,
     "dailyMinutesDown": {
       "2022-05-01": 56,
@@ -95,7 +95,7 @@
     "time": 1789,
     "timeDay": 2012,
     "timeWeek": 1690,
-    "timeMonth": 1783,
+    "timeMonth": 1784,
     "timeYear": 1789,
     "dailyMinutesDown": {
       "2022-05-01": 56,
@@ -108,18 +108,19 @@
     "url": "$SECRET_SITE3",
     "icon": "https://streamline.dev.seacom.nasctech.com/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "seacom",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.42%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.20%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "96.39%",
-    "time": 4270,
-    "timeDay": 981,
-    "timeWeek": 5562,
-    "timeMonth": 4506,
-    "timeYear": 4270,
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.42%",
+    "time": 4248,
+    "timeDay": 1506,
+    "timeWeek": 5341,
+    "timeMonth": 4602,
+    "timeYear": 4248,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-05-06": 22,
       "2022-05-03": 21,
       "2022-05-02": 38,
