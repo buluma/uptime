@@ -21,6 +21,9 @@ sites:
   - name: SEACOM
     url: $SECRET_SITE3
     icon: https://streamline.dev.seacom.nasctech.com/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico
+  - name: TowerCO
+    url: $TOWERCO
+    icon: https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
