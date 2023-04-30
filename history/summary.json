@@ -23,7 +23,7 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "up",
-    "uptime": "71.04%",
+    "uptime": "71.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.50%",
@@ -194,7 +194,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "up",
-    "uptime": "71.96%",
+    "uptime": "71.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.58%",
@@ -335,17 +335,16 @@
     "slug": "voda-drc",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "98.25%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "99.34%",
     "time": 1674,
     "timeDay": 1479,
     "timeWeek": 1554,
-    "timeMonth": 1602,
+    "timeMonth": 1600,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2023-04-30": 12,
       "2023-04-29": 97,
       "2023-04-28": 41,
       "2023-04-26": 43,
@@ -407,7 +406,8 @@
       "2022-12-24": 22,
       "2022-12-22": 62,
       "2022-12-21": 40,
-      "2022-12-19": 72
+      "2022-12-19": 72,
+      "2022-12-18": 25
     }
   },
   {
@@ -416,18 +416,17 @@
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.42%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.37%",
     "time": 1731,
     "timeDay": 1517,
     "timeWeek": 1591,
-    "timeMonth": 1617,
+    "timeMonth": 1615,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2023-04-30": 12,
       "2023-04-29": 97,
       "2023-04-28": 41,
       "2023-04-26": 43,
@@ -492,7 +491,8 @@
       "2022-11-18": 26,
       "2022-11-09": 138,
       "2022-11-08": 39,
-      "2022-11-02": 198
+      "2022-11-02": 198,
+      "2022-10-28": 145
     }
   },
   {
@@ -541,9 +541,9 @@
     "url": "$TOWERCO",
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -552,6 +552,8 @@
     "timeWeek": 1255,
     "timeMonth": 1411,
     "timeYear": 1411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-30": 0
+    }
   }
 ]
