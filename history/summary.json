@@ -32,7 +32,7 @@
     "timeDay": 12362,
     "timeWeek": 14788,
     "timeMonth": 12814,
-    "timeYear": 12014,
+    "timeYear": 12016,
     "dailyMinutesDown": {
       "2023-04-21": 19,
       "2023-04-20": 17,
@@ -331,16 +331,16 @@
     "url": "$SECRET_SITE1",
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "99.34%",
-    "time": 1664,
-    "timeDay": 1580,
-    "timeWeek": 1618,
-    "timeMonth": 1582,
+    "uptimeYear": "99.35%",
+    "time": 1663,
+    "timeDay": 1541,
+    "timeWeek": 1603,
+    "timeMonth": 1579,
     "timeYear": 1662,
     "dailyMinutesDown": {
       "2023-05-26": 19,
@@ -407,8 +407,7 @@
       "2023-01-21": 25,
       "2023-01-20": 115,
       "2023-01-19": 55,
-      "2023-01-16": 32,
-      "2023-01-15": 17
+      "2023-01-16": 32
     }
   },
   {
@@ -416,17 +415,17 @@
     "url": "$SECRET_SITE2",
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.46%",
-    "time": 1718,
-    "timeDay": 1639,
-    "timeWeek": 1651,
-    "timeMonth": 1616,
-    "timeYear": 1714,
+    "time": 1717,
+    "timeDay": 1595,
+    "timeWeek": 1635,
+    "timeMonth": 1613,
+    "timeYear": 1713,
     "dailyMinutesDown": {
       "2023-05-26": 19,
       "2023-05-25": 17,
@@ -493,8 +492,7 @@
       "2023-01-15": 17,
       "2023-01-11": 66,
       "2023-01-07": 17,
-      "2023-01-05": 43,
-      "2022-12-30": 18
+      "2023-01-05": 43
     }
   },
   {
