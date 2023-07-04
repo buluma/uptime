@@ -329,17 +329,17 @@
     "url": "$SECRET_SITE1",
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "98.31%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.46%",
-    "time": 1653,
-    "timeDay": 1487,
-    "timeWeek": 1533,
-    "timeMonth": 1584,
-    "timeYear": 1644,
+    "time": 1652,
+    "timeDay": 1438,
+    "timeWeek": 1522,
+    "timeMonth": 1580,
+    "timeYear": 1643,
     "dailyMinutesDown": {
       "2023-07-04": 53,
       "2023-07-02": 16,
@@ -409,8 +409,7 @@
       "2023-02-18": 17,
       "2023-02-17": 29,
       "2023-02-15": 24,
-      "2023-02-13": 128,
-      "2023-02-12": 18
+      "2023-02-13": 128
     }
   },
   {
@@ -418,16 +417,16 @@
     "url": "$SECRET_SITE2",
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "98.31%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.49%",
-    "time": 1705,
-    "timeDay": 1538,
-    "timeWeek": 1580,
-    "timeMonth": 1631,
+    "time": 1704,
+    "timeDay": 1486,
+    "timeWeek": 1569,
+    "timeMonth": 1627,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2023-07-04": 53,
@@ -502,7 +501,7 @@
       "2023-02-07": 83,
       "2023-02-06": 250,
       "2023-02-04": 21,
-      "2023-02-03": 36
+      "2023-02-03": 18
     }
   },
   {
