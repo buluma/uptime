@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 244,
-    "timeWeek": 356,
-    "timeMonth": 441,
-    "timeYear": 586,
+    "time": 580,
+    "timeDay": 446,
+    "timeWeek": 376,
+    "timeMonth": 435,
+    "timeYear": 587,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "up",
-    "uptime": "77.11%",
+    "uptime": "77.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "77.92%",
+    "uptimeYear": "78.07%",
     "time": 12224,
-    "timeDay": 10922,
-    "timeWeek": 15599,
-    "timeMonth": 13780,
-    "timeYear": 12106,
+    "timeDay": 11118,
+    "timeWeek": 13875,
+    "timeMonth": 13750,
+    "timeYear": 12103,
     "dailyMinutesDown": {
       "2023-07-18": 160,
       "2023-07-14": 16,
@@ -147,8 +147,7 @@
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
-      "2022-08-14": 1440,
-      "2022-08-13": 1440
+      "2022-08-14": 1440
     }
   },
   {
@@ -157,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "up",
-    "uptime": "77.83%",
+    "uptime": "77.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "78.81%",
+    "uptimeYear": "78.96%",
     "time": 949,
-    "timeDay": 517,
-    "timeWeek": 1430,
-    "timeMonth": 1105,
-    "timeYear": 989,
+    "timeDay": 439,
+    "timeWeek": 950,
+    "timeMonth": 1099,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2023-07-18": 159,
       "2023-06-07": 19,
@@ -255,8 +254,7 @@
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
-      "2022-08-14": 1440,
-      "2022-08-13": 1440
+      "2022-08-14": 1440
     }
   },
   {
@@ -265,18 +263,17 @@
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.48%",
     "time": 1656,
-    "timeDay": 1924,
-    "timeWeek": 1802,
-    "timeMonth": 1726,
+    "timeDay": 1976,
+    "timeWeek": 1840,
+    "timeMonth": 1729,
     "timeYear": 1646,
     "dailyMinutesDown": {
-      "2023-08-12": 12,
       "2023-08-10": 54,
       "2023-08-06": 23,
       "2023-08-05": 19,
@@ -343,7 +340,8 @@
       "2023-04-11": 57,
       "2023-03-31": 115,
       "2023-03-29": 17,
-      "2023-03-28": 68
+      "2023-03-28": 68,
+      "2023-03-21": 96
     }
   },
   {
@@ -353,17 +351,16 @@
     "slug": "voda-sa",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.57%",
-    "time": 1708,
-    "timeDay": 2018,
-    "timeWeek": 1862,
-    "timeMonth": 1774,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.56%",
+    "time": 1709,
+    "timeDay": 2048,
+    "timeWeek": 1905,
+    "timeMonth": 1777,
     "timeYear": 1691,
     "dailyMinutesDown": {
-      "2023-08-12": 12,
       "2023-08-10": 54,
       "2023-08-06": 23,
       "2023-08-05": 19,
@@ -432,7 +429,8 @@
       "2023-03-28": 68,
       "2023-03-19": 23,
       "2023-03-18": 85,
-      "2023-03-17": 46
+      "2023-03-17": 46,
+      "2023-03-16": 29
     }
   },
   {
@@ -445,10 +443,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.10%",
+    "uptimeYear": "98.24%",
     "time": 1025,
-    "timeDay": 694,
-    "timeWeek": 766,
+    "timeDay": 839,
+    "timeWeek": 785,
     "timeMonth": 787,
     "timeYear": 827,
     "dailyMinutesDown": {
@@ -464,8 +462,7 @@
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
-      "2022-08-14": 1440,
-      "2022-08-13": 1440
+      "2022-08-14": 1440
     }
   },
   {
@@ -480,9 +477,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.32%",
     "time": 1354,
-    "timeDay": 1125,
-    "timeWeek": 1263,
-    "timeMonth": 1267,
+    "timeDay": 1319,
+    "timeWeek": 1272,
+    "timeMonth": 1264,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2023-07-31": 43,
