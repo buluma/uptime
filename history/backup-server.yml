@@ -1,7 +1,7 @@
 url: $BACKUP_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-17T23:33:37.046Z
+status: up
+code: 200
+responseTime: 934
+lastUpdated: 2023-09-17T23:44:29.852Z
 startTime: 2022-04-04T16:31:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
