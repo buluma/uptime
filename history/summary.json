@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 585,
-    "timeWeek": 405,
-    "timeMonth": 593,
-    "timeYear": 546,
+    "time": 595,
+    "timeDay": 1084,
+    "timeWeek": 518,
+    "timeMonth": 618,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "91.98%",
-    "time": 12687,
-    "timeDay": 14781,
-    "timeWeek": 18367,
-    "timeMonth": 17607,
-    "timeYear": 12700,
+    "uptimeYear": "92.04%",
+    "time": 12682,
+    "timeDay": 19605,
+    "timeWeek": 19109,
+    "timeMonth": 17512,
+    "timeYear": 12716,
     "dailyMinutesDown": {
       "2023-09-14": 17,
       "2023-07-18": 160,
@@ -97,8 +97,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -111,12 +110,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.88%",
+    "uptimeYear": "92.94%",
     "time": 1204,
-    "timeDay": 4234,
-    "timeWeek": 2262,
-    "timeMonth": 2511,
-    "timeYear": 1226,
+    "timeDay": 1008,
+    "timeWeek": 1701,
+    "timeMonth": 2413,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2023-07-18": 159,
       "2023-06-07": 19,
@@ -154,8 +153,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -164,18 +162,17 @@
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.50%",
-    "time": 1663,
-    "timeDay": 1578,
-    "timeWeek": 1744,
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.49%",
+    "time": 1664,
+    "timeDay": 1671,
+    "timeWeek": 1769,
     "timeMonth": 1798,
     "timeYear": 1646,
     "dailyMinutesDown": {
-      "2023-10-02": 12,
       "2023-09-21": 19,
       "2023-09-02": 23,
       "2023-08-27": 23,
@@ -245,7 +242,7 @@
       "2023-04-15": 19,
       "2023-04-13": 24,
       "2023-04-11": 57,
-      "2023-03-31": 19
+      "2023-03-31": 115
     }
   },
   {
@@ -254,18 +251,17 @@
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.57%",
     "time": 1716,
-    "timeDay": 1645,
-    "timeWeek": 1804,
-    "timeMonth": 1839,
+    "timeDay": 1755,
+    "timeWeek": 1833,
+    "timeMonth": 1842,
     "timeYear": 1690,
     "dailyMinutesDown": {
-      "2023-10-02": 12,
       "2023-09-21": 19,
       "2023-09-02": 23,
       "2023-08-27": 23,
@@ -336,7 +332,7 @@
       "2023-04-11": 57,
       "2023-03-31": 19,
       "2023-03-29": 17,
-      "2023-03-28": 47
+      "2023-03-28": 68
     }
   },
   {
@@ -351,9 +347,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 828,
-    "timeDay": 595,
-    "timeWeek": 693,
-    "timeMonth": 793,
+    "timeDay": 785,
+    "timeWeek": 713,
+    "timeMonth": 797,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2023-07-26": 16,
@@ -377,11 +373,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.81%",
-    "time": 1351,
-    "timeDay": 1011,
-    "timeWeek": 1254,
-    "timeMonth": 1304,
-    "timeYear": 1351,
+    "time": 1350,
+    "timeDay": 1257,
+    "timeWeek": 1215,
+    "timeMonth": 1311,
+    "timeYear": 1350,
     "dailyMinutesDown": {
       "2023-09-13": 16,
       "2023-09-12": 22,
