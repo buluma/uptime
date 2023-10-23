@@ -26,7 +26,7 @@
     "uptime": "78.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.51%",
-    "uptimeMonth": "64.46%",
+    "uptimeMonth": "64.38%",
     "uptimeYear": "94.61%",
     "time": 12470,
     "timeDay": 1202,
@@ -34,7 +34,7 @@
     "timeMonth": 11070,
     "timeYear": 12450,
     "dailyMinutesDown": {
-      "2023-10-23": 318,
+      "2023-10-23": 353,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1282,
@@ -133,17 +133,17 @@
     "url": "$SECRET_SITE1",
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "98.90%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.50%",
-    "time": 1666,
-    "timeDay": 1778,
-    "timeWeek": 1845,
-    "timeMonth": 1786,
-    "timeYear": 1645,
+    "time": 1665,
+    "timeDay": 1606,
+    "timeWeek": 1803,
+    "timeMonth": 1773,
+    "timeYear": 1644,
     "dailyMinutesDown": {
       "2023-10-23": 20,
       "2023-10-21": 76,
@@ -215,8 +215,7 @@
       "2023-04-19": 21,
       "2023-04-18": 45,
       "2023-04-16": 35,
-      "2023-04-15": 19,
-      "2023-04-13": 24
+      "2023-04-15": 19
     }
   },
   {
@@ -224,16 +223,16 @@
     "url": "$SECRET_SITE2",
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.58%",
-    "time": 1716,
-    "timeDay": 1777,
-    "timeWeek": 1890,
-    "timeMonth": 1830,
+    "time": 1715,
+    "timeDay": 1600,
+    "timeWeek": 1838,
+    "timeMonth": 1815,
     "timeYear": 1689,
     "dailyMinutesDown": {
       "2023-10-23": 20,
@@ -307,8 +306,7 @@
       "2023-04-15": 19,
       "2023-04-13": 24,
       "2023-04-11": 57,
-      "2023-03-31": 19,
-      "2023-03-29": 17
+      "2023-03-31": 19
     }
   },
   {
