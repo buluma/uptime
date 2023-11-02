@@ -22,17 +22,17 @@
     "url": "$MAIN_SITE",
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.77%",
-    "uptimeDay": "8.08%",
-    "uptimeWeek": "5.87%",
+    "uptimeDay": "10.62%",
+    "uptimeWeek": "6.23%",
     "uptimeMonth": "35.02%",
-    "uptimeYear": "93.32%",
-    "time": 11648,
-    "timeDay": 10359,
-    "timeWeek": 7448,
-    "timeMonth": 8156,
-    "timeYear": 11545,
+    "uptimeYear": "93.33%",
+    "time": 11627,
+    "timeDay": 9684,
+    "timeWeek": 7348,
+    "timeMonth": 8103,
+    "timeYear": 11526,
     "dailyMinutesDown": {
       "2023-11-02": 120,
       "2023-11-01": 1323,
@@ -95,7 +95,7 @@
       "2022-11-14": 16,
       "2022-11-12": 150,
       "2022-11-11": 168,
-      "2022-11-05": 55
+      "2022-11-05": 33
     }
   },
   {
@@ -137,18 +137,19 @@
     "url": "$SECRET_SITE1",
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "98.91%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.50%",
-    "time": 1663,
-    "timeDay": 1539,
-    "timeWeek": 1616,
-    "timeMonth": 1721,
+    "time": 1662,
+    "timeDay": 1424,
+    "timeWeek": 1594,
+    "timeMonth": 1712,
     "timeYear": 1642,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-11-01": 15,
       "2023-10-31": 20,
       "2023-10-25": 19,
@@ -220,7 +221,7 @@
       "2023-04-21": 63,
       "2023-04-20": 144,
       "2023-04-19": 21,
-      "2023-04-18": 45
+      "2023-04-18": 25
     }
   },
   {
@@ -228,18 +229,19 @@
     "url": "$SECRET_SITE2",
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.94%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "98.91%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.58%",
     "time": 1711,
-    "timeDay": 1566,
-    "timeWeek": 1653,
-    "timeMonth": 1760,
-    "timeYear": 1687,
+    "timeDay": 1443,
+    "timeWeek": 1629,
+    "timeMonth": 1750,
+    "timeYear": 1686,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-11-01": 15,
       "2023-10-31": 20,
       "2023-10-25": 19,
@@ -311,8 +313,7 @@
       "2023-04-19": 21,
       "2023-04-18": 45,
       "2023-04-16": 35,
-      "2023-04-15": 19,
-      "2023-04-13": 24
+      "2023-04-15": 19
     }
   },
   {
