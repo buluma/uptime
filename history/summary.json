@@ -22,17 +22,17 @@
     "url": "$MAIN_SITE",
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
-    "status": "up",
-    "uptime": "95.73%",
-    "uptimeDay": "18.66%",
-    "uptimeWeek": "7.26%",
+    "status": "down",
+    "uptime": "95.74%",
+    "uptimeDay": "18.68%",
+    "uptimeWeek": "7.44%",
     "uptimeMonth": "33.33%",
     "uptimeYear": "93.26%",
-    "time": 11512,
-    "timeDay": 8884,
-    "timeWeek": 7621,
-    "timeMonth": 8178,
-    "timeYear": 11445,
+    "time": 11493,
+    "timeDay": 8744,
+    "timeWeek": 7536,
+    "timeMonth": 8130,
+    "timeYear": 11427,
     "dailyMinutesDown": {
       "2023-11-02": 860,
       "2023-11-01": 1323,
@@ -90,8 +90,7 @@
       "2022-11-27": 22,
       "2022-11-26": 26,
       "2022-11-20": 28,
-      "2022-11-17": 159,
-      "2022-11-16": 16
+      "2022-11-17": 159
     }
   },
   {
