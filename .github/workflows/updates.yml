@@ -17,6 +17,7 @@
 
 name: Updates CI
 on:
+  push:
   schedule:
     - cron: "0 3 * * *"
   repository_dispatch:
