@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 545,
-    "timeDay": 273,
-    "timeWeek": 458,
-    "timeMonth": 517,
+    "time": 546,
+    "timeDay": 545,
+    "timeWeek": 435,
+    "timeMonth": 514,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -25,7 +25,7 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "59.78%",
+    "uptime": "59.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,9 +34,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 7582,
+    "timeYear": 7624,
     "dailyMinutesDown": {
-      "2024-10-15": 109,
+      "2024-10-16": 109,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -399,8 +400,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1282,
       "2023-10-19": 1345,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "down",
-    "uptime": "53.02%",
+    "uptime": "52.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.06%",
-    "time": 1961,
+    "uptimeYear": "10.79%",
+    "time": 1969,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2075,
+    "timeYear": 2108,
     "dailyMinutesDown": {
-      "2024-10-15": 109,
+      "2024-10-16": 109,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -761,10 +762,10 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.56%",
     "time": 1795,
-    "timeDay": 1671,
-    "timeWeek": 1741,
-    "timeMonth": 1748,
-    "timeYear": 1786,
+    "timeDay": 2026,
+    "timeWeek": 1799,
+    "timeMonth": 1759,
+    "timeYear": 1788,
     "dailyMinutesDown": {
       "2024-09-29": 109,
       "2024-09-25": 101,
@@ -796,8 +797,7 @@
       "2023-10-31": 20,
       "2023-10-25": 19,
       "2023-10-23": 43,
-      "2023-10-21": 76,
-      "2023-10-17": 15
+      "2023-10-21": 76
     }
   },
   {
@@ -811,11 +811,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1879,
-    "timeDay": 1697,
-    "timeWeek": 1790,
-    "timeMonth": 1830,
-    "timeYear": 1879,
+    "time": 1878,
+    "timeDay": 2057,
+    "timeWeek": 1842,
+    "timeMonth": 1838,
+    "timeYear": 1881,
     "dailyMinutesDown": {
       "2024-08-15": 106,
       "2024-06-16": 63,
@@ -824,8 +824,7 @@
       "2023-11-01": 15,
       "2023-10-31": 20,
       "2023-10-25": 19,
-      "2023-10-23": 43,
-      "2023-10-17": 15
+      "2023-10-23": 43
     }
   },
   {
@@ -840,10 +839,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 816,
-    "timeDay": 790,
-    "timeWeek": 816,
-    "timeMonth": 818,
-    "timeYear": 821,
+    "timeDay": 1037,
+    "timeWeek": 859,
+    "timeMonth": 829,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2024-07-03": 17
     }
@@ -854,18 +853,19 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "88.73%",
+    "uptime": "88.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.61%",
+    "uptimeYear": "83.34%",
     "time": 1337,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1353,
+    "timeYear": 1354,
     "dailyMinutesDown": {
-      "2024-10-15": 109,
+      "2024-10-16": 109,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -927,8 +927,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 750,
       "2024-04-29": 74,
-      "2023-12-26": 79,
-      "2023-10-17": 172
+      "2023-12-26": 79
     }
   }
 ]
