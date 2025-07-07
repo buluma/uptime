@@ -1,7 +1,7 @@
 url: $GOOGLE
-status: down
-code: 429
-responseTime: 729
-lastUpdated: 2025-07-07T22:56:30.502Z
+status: up
+code: 200
+responseTime: 674
+lastUpdated: 2025-07-07T23:09:11.328Z
 startTime: 2022-04-04T17:52:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
