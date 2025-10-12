@@ -37,7 +37,7 @@
     "timeMonth": 605,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-10-12": 1,
+      "2025-10-12": 73,
       "2025-10-11": 1088,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-12": 47,
+      "2025-10-12": 119,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -888,7 +888,7 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "53.47%",
+    "uptime": "53.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -899,7 +899,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-12": 48,
+      "2025-10-12": 120,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
