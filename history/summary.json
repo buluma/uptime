@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 689,
-    "timeDay": 588,
-    "timeWeek": 926,
-    "timeMonth": 1293,
-    "timeYear": 726,
+    "time": 690,
+    "timeDay": 489,
+    "timeWeek": 518,
+    "timeMonth": 1289,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-06-13": 18,
       "2025-01-29": 18
@@ -26,18 +26,19 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "42.16%",
+    "uptime": "42.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.08%",
-    "time": 551,
-    "timeDay": 253,
-    "timeWeek": 359,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 543,
+    "timeDay": 273,
+    "timeWeek": 334,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-11-06": 124,
+      "2025-11-07": 123,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -400,8 +401,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "down",
-    "uptime": "37.37%",
+    "uptime": "37.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 124,
+      "2025-11-07": 123,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -784,8 +785,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -799,11 +799,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.65%",
-    "time": 1763,
-    "timeDay": 2057,
-    "timeWeek": 1908,
-    "timeMonth": 1780,
-    "timeYear": 1761,
+    "time": 1762,
+    "timeDay": 1245,
+    "timeWeek": 1864,
+    "timeMonth": 1759,
+    "timeYear": 1760,
     "dailyMinutesDown": {
       "2025-10-31": 21,
       "2025-10-27": 123,
@@ -842,9 +842,9 @@
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.70%",
     "time": 1870,
-    "timeDay": 2091,
-    "timeWeek": 1978,
-    "timeMonth": 1919,
+    "timeDay": 2029,
+    "timeWeek": 2027,
+    "timeMonth": 1913,
     "timeYear": 1856,
     "dailyMinutesDown": {
       "2025-10-27": 122,
@@ -882,9 +882,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 840,
-    "timeDay": 1178,
-    "timeWeek": 932,
-    "timeMonth": 845,
+    "timeDay": 811,
+    "timeWeek": 944,
+    "timeMonth": 840,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2024-12-04": 337,
@@ -897,18 +897,19 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "52.04%",
+    "uptime": "51.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1311,
+    "time": 1309,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 124,
+      "2025-11-07": 123,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -1271,8 +1272,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   }
 ]
