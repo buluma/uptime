@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 690,
-    "timeDay": 1501,
-    "timeWeek": 540,
-    "timeMonth": 1023,
-    "timeYear": 727,
+    "timeDay": 437,
+    "timeWeek": 533,
+    "timeMonth": 1022,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-06-13": 18,
       "2025-01-29": 18
@@ -26,18 +26,19 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "41.94%",
+    "uptime": "41.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.08%",
-    "time": 507,
-    "timeDay": 494,
-    "timeWeek": 304,
-    "timeMonth": 492,
-    "timeYear": 507,
+    "time": 504,
+    "timeDay": 393,
+    "timeWeek": 322,
+    "timeMonth": 499,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-11-13": 126,
+      "2025-11-14": 124,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -400,8 +401,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "down",
-    "uptime": "37.17%",
+    "uptime": "37.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-13": 126,
+      "2025-11-14": 124,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -784,8 +785,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -799,11 +799,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.65%",
-    "time": 1756,
-    "timeDay": 1332,
-    "timeWeek": 1243,
-    "timeMonth": 1663,
-    "timeYear": 1753,
+    "time": 1755,
+    "timeDay": 1288,
+    "timeWeek": 1249,
+    "timeMonth": 1654,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2025-10-31": 21,
       "2025-10-27": 123,
@@ -842,10 +842,10 @@
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.70%",
     "time": 1870,
-    "timeDay": 2071,
-    "timeWeek": 1856,
-    "timeMonth": 1887,
-    "timeYear": 1857,
+    "timeDay": 1777,
+    "timeWeek": 1820,
+    "timeMonth": 1889,
+    "timeYear": 1856,
     "dailyMinutesDown": {
       "2025-10-27": 122,
       "2025-10-21": 111,
@@ -876,14 +876,14 @@
     "icon": "https://streamline.dev.seacom.nasctech.com/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "seacom",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 839,
-    "timeDay": 891,
-    "timeWeek": 831,
+    "timeDay": 760,
+    "timeWeek": 824,
     "timeMonth": 833,
     "timeYear": 849,
     "dailyMinutesDown": {
@@ -897,18 +897,19 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "51.65%",
+    "uptime": "51.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1303,
+    "time": 1305,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-13": 126,
+      "2025-11-14": 125,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -1271,8 +1272,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   }
 ]
