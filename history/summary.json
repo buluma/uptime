@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 690,
-    "timeDay": 437,
-    "timeWeek": 533,
-    "timeMonth": 1022,
+    "timeDay": 706,
+    "timeWeek": 608,
+    "timeMonth": 1037,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2025-06-13": 18,
@@ -26,18 +26,19 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "41.91%",
+    "uptime": "41.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.08%",
-    "time": 504,
-    "timeDay": 393,
-    "timeWeek": 322,
-    "timeMonth": 499,
-    "timeYear": 504,
+    "time": 502,
+    "timeDay": 433,
+    "timeWeek": 356,
+    "timeMonth": 478,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-11-14": 124,
+      "2025-11-15": 120,
+      "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -400,8 +401,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "down",
-    "uptime": "37.14%",
+    "uptime": "37.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 124,
+      "2025-11-15": 120,
+      "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -784,8 +785,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   },
   {
@@ -797,13 +797,13 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.75%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.65%",
-    "time": 1755,
-    "timeDay": 1288,
-    "timeWeek": 1249,
-    "timeMonth": 1654,
-    "timeYear": 1751,
+    "time": 1754,
+    "timeDay": 1448,
+    "timeWeek": 1281,
+    "timeMonth": 1651,
+    "timeYear": 1750,
     "dailyMinutesDown": {
       "2025-10-31": 21,
       "2025-10-27": 123,
@@ -826,8 +826,7 @@
       "2025-03-23": 116,
       "2025-03-11": 107,
       "2024-12-12": 113,
-      "2024-12-05": 112,
-      "2024-11-15": 20
+      "2024-12-05": 112
     }
   },
   {
@@ -839,13 +838,13 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.70%",
-    "time": 1870,
-    "timeDay": 1777,
-    "timeWeek": 1820,
-    "timeMonth": 1889,
-    "timeYear": 1856,
+    "time": 1871,
+    "timeDay": 2101,
+    "timeWeek": 1876,
+    "timeMonth": 1904,
+    "timeYear": 1857,
     "dailyMinutesDown": {
       "2025-10-27": 122,
       "2025-10-21": 111,
@@ -881,10 +880,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 839,
-    "timeDay": 760,
-    "timeWeek": 824,
-    "timeMonth": 833,
+    "time": 840,
+    "timeDay": 901,
+    "timeWeek": 856,
+    "timeMonth": 841,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2024-12-04": 337,
@@ -897,18 +896,19 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "51.59%",
+    "uptime": "51.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1305,
+    "time": 1302,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 125,
+      "2025-11-15": 120,
+      "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -1271,8 +1271,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   }
 ]
