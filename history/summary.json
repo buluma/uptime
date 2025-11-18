@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 690,
-    "timeDay": 759,
-    "timeWeek": 661,
-    "timeMonth": 1038,
-    "timeYear": 727,
+    "time": 703,
+    "timeDay": 7084,
+    "timeWeek": 1614,
+    "timeMonth": 1101,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-06-13": 18,
       "2025-01-29": 18
@@ -26,18 +26,19 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "41.81%",
+    "uptime": "41.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.08%",
-    "time": 503,
-    "timeDay": 754,
-    "timeWeek": 402,
-    "timeMonth": 485,
-    "timeYear": 503,
+    "time": 500,
+    "timeDay": 396,
+    "timeWeek": 439,
+    "timeMonth": 359,
+    "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-18": 124,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -400,8 +401,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "down",
-    "uptime": "37.06%",
+    "uptime": "37.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-18": 124,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -784,8 +785,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -794,15 +794,15 @@
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.65%",
-    "time": 1753,
-    "timeDay": 1470,
-    "timeWeek": 1325,
-    "timeMonth": 1634,
+    "time": 1752,
+    "timeDay": 1472,
+    "timeWeek": 1370,
+    "timeMonth": 1627,
     "timeYear": 1748,
     "dailyMinutesDown": {
       "2025-10-31": 21,
@@ -841,10 +841,10 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.70%",
     "time": 1873,
-    "timeDay": 2266,
-    "timeWeek": 1977,
-    "timeMonth": 1917,
-    "timeYear": 1860,
+    "timeDay": 2152,
+    "timeWeek": 2036,
+    "timeMonth": 1923,
+    "timeYear": 1861,
     "dailyMinutesDown": {
       "2025-10-27": 122,
       "2025-10-21": 111,
@@ -881,10 +881,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 841,
-    "timeDay": 985,
-    "timeWeek": 862,
-    "timeMonth": 852,
-    "timeYear": 850,
+    "timeDay": 958,
+    "timeWeek": 886,
+    "timeMonth": 855,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2024-12-04": 337,
       "2024-12-03": 196
@@ -896,18 +896,19 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "51.43%",
+    "uptime": "51.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1305,
+    "time": 1308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-18": 124,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1270,8 +1271,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   }
 ]
