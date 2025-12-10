@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 741,
-    "timeDay": 808,
-    "timeWeek": 738,
-    "timeMonth": 1341,
-    "timeYear": 798,
+    "timeDay": 496,
+    "timeWeek": 703,
+    "timeMonth": 1342,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-06-13": 18,
       "2025-01-29": 18
@@ -26,18 +26,19 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "41.13%",
+    "uptime": "41.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.08%",
-    "time": 458,
-    "timeDay": 420,
-    "timeWeek": 310,
-    "timeMonth": 376,
-    "timeYear": 458,
+    "time": 459,
+    "timeDay": 545,
+    "timeWeek": 345,
+    "timeMonth": 383,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-12-09": 128,
+      "2025-12-10": 130,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -400,8 +401,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
     "status": "down",
-    "uptime": "36.45%",
+    "uptime": "36.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 128,
+      "2025-12-10": 130,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -784,8 +785,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -794,15 +794,15 @@
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.65%",
-    "time": 1729,
-    "timeDay": 1419,
-    "timeWeek": 1346,
-    "timeMonth": 1348,
+    "time": 1728,
+    "timeDay": 1370,
+    "timeWeek": 1331,
+    "timeMonth": 1352,
     "timeYear": 1722,
     "dailyMinutesDown": {
       "2025-12-06": 116,
@@ -842,10 +842,10 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.68%",
     "time": 1860,
-    "timeDay": 2059,
-    "timeWeek": 2007,
-    "timeMonth": 1982,
-    "timeYear": 1871,
+    "timeDay": 2013,
+    "timeWeek": 1991,
+    "timeMonth": 1987,
+    "timeYear": 1872,
     "dailyMinutesDown": {
       "2025-12-06": 115,
       "2025-10-27": 122,
@@ -883,10 +883,10 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 896,
-    "timeDay": 1151,
-    "timeWeek": 972,
-    "timeMonth": 1693,
-    "timeYear": 935,
+    "timeDay": 1049,
+    "timeWeek": 980,
+    "timeMonth": 1691,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2025-12-01": 129
     }
@@ -897,18 +897,19 @@
     "icon": "https://za.staging.towerco.africa/assets/themes/light_blue/favicon-144e541887d412afb098092e2cacce90.ico",
     "slug": "tower-co",
     "status": "down",
-    "uptime": "50.26%",
+    "uptime": "50.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1347,
+    "time": 1352,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 128,
+      "2025-12-10": 130,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -1271,8 +1272,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   }
 ]
