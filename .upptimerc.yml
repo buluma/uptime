@@ -8,7 +8,7 @@ sites:
   - name: Google
     url: $GOOGLE
     type: globalping
-    location: california # Location to run the check from. Optional. Default is "World"
+    location: kenya, uk, canada, asia, china, south africa --limit 2
   - name: Wikipedia
     url: wikipedia.org
     type: globalping
