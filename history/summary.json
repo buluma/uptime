@@ -13,7 +13,7 @@
     "time": 821,
     "timeDay": 0,
     "timeWeek": 64,
-    "timeMonth": 816,
+    "timeMonth": 835,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2026-02-26": 332,
@@ -34,18 +34,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
     "time": 198,
     "timeDay": 174,
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-02-28": 8,
       "2026-02-25": 58,
       "2026-02-24": 64
     }
@@ -56,18 +55,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bing",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
     "time": 32,
     "timeDay": 35,
     "timeWeek": 32,
     "timeMonth": 32,
     "timeYear": 32,
     "dailyMinutesDown": {
-      "2026-02-28": 8,
       "2026-02-25": 58,
       "2026-02-24": 64
     }
@@ -78,15 +76,15 @@
     "icon": "https://www.buluma.co.ke/wp-content/uploads/2015/12/logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "39.23%",
+    "uptime": "39.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "19.82%",
-    "uptimeYear": "1.89%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "30.13%",
+    "uptimeYear": "1.92%",
     "time": 512,
     "timeDay": 97,
     "timeWeek": 95,
-    "timeMonth": 564,
+    "timeMonth": 584,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2026-02-22": 565,
@@ -446,8 +444,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
