@@ -6,9 +6,10 @@ assignees: # Users to assign downtime issues (optional)
 
 sites:
   - name: Google
-    url: $GOOGLE
+    url: google.com
     type: globalping
-    location: kenya, uk, canada, asia, china, south africa --limit 2
+    check: tcp-ping
+    location: Singapore
   - name: Wikipedia
     url: wikipedia.org
     type: globalping
