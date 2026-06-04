@@ -47,7 +47,7 @@
     "time": 121,
     "timeDay": 77,
     "timeWeek": 77,
-    "timeMonth": 112,
+    "timeMonth": 115,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-02-24": 64,
@@ -76,7 +76,7 @@
     "time": 44,
     "timeDay": 159,
     "timeWeek": 70,
-    "timeMonth": 61,
+    "timeMonth": 63,
     "timeYear": 44,
     "dailyMinutesDown": {
       "2026-02-24": 64,
@@ -101,11 +101,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.17%",
+    "uptimeYear": "28.19%",
     "time": 390,
     "timeDay": 277,
     "timeWeek": 220,
-    "timeMonth": 208,
+    "timeMonth": 209,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2025-10-11": 1088,
@@ -378,17 +378,17 @@
     "url": "$SECRET_SITE1",
     "icon": "https://streamline.vodacom.nasctech.com/assets/themes/red/favicon-f2a3647166d7f65772251fba577f51d9.ico",
     "slug": "voda-drc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.07%",
     "time": 1737,
-    "timeDay": 1437,
-    "timeWeek": 10005,
-    "timeMonth": 3712,
-    "timeYear": 1719,
+    "timeDay": 1602,
+    "timeWeek": 9108,
+    "timeMonth": 3733,
+    "timeYear": 1720,
     "dailyMinutesDown": {
       "2025-06-19": 124,
       "2025-06-30": 28,
@@ -429,7 +429,7 @@
       "2026-05-06": 233,
       "2026-05-21": 158,
       "2026-05-20": 1,
-      "2026-06-04": 1
+      "2026-06-04": 68
     }
   },
   {
@@ -437,17 +437,17 @@
     "url": "$SECRET_SITE2",
     "icon": "https://streamline.vodacomsa-battery.nasctech.com/assets/themes/blue/favicon-302dd2875b38cf6af9ef5d7da5a7c7d5.ico",
     "slug": "voda-sa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.66%",
-    "time": 1934,
-    "timeDay": 1630,
-    "timeWeek": 2330,
-    "timeMonth": 2423,
-    "timeYear": 1958,
+    "uptimeDay": "95.32%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.65%",
+    "time": 1935,
+    "timeDay": 1942,
+    "timeWeek": 2356,
+    "timeMonth": 2437,
+    "timeYear": 1960,
     "dailyMinutesDown": {
       "2025-06-19": 123,
       "2025-06-30": 28,
@@ -472,7 +472,7 @@
       "2026-01-11": 144,
       "2026-05-21": 158,
       "2026-05-20": 0,
-      "2026-06-04": 0
+      "2026-06-04": 67
     }
   },
   {
@@ -489,7 +489,7 @@
     "time": 953,
     "timeDay": 1590,
     "timeWeek": 1486,
-    "timeMonth": 1379,
+    "timeMonth": 1397,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2025-12-01": 129,
